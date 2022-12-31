@@ -2,8 +2,6 @@ class Solution {
 public:
     int evalRPN(vector<string>& tokens) {
 
-        int n = tokens.size();
-
         stack<int> s;
         
         for(auto t : tokens)
@@ -14,28 +12,29 @@ public:
                 s.pop();
                 int y = s.top();
                 s.pop();
+                
                 if(t == "+")
                 {
                     s.push(y + x);
                 }
-                else if(t == "-")
-                {
-                    s.push(y - x);
-                }
                 else if(t == "*")
                 {
                     s.push(y * x);
+                }
+                else if(t == "-")
+                {
+                    s.push(y - x);
                 }
                 else
                 {
                     s.push(y / x);
                 }
             }
-            else
-            {
-                int n = stoi(t);
-                s.push(n);
-            }
+                else
+                {
+                    int n = stoi(t);
+                    s.push(n);
+                }
         }
         
         return s.top();
