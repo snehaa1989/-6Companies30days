@@ -12,24 +12,24 @@ Company Name : **Microsoft**
 
 **Day 6-10 :**
 
-Company Name : Goldman Sachs
+Company Name : **Goldman Sachs**
 
 
 **Day 11-15 :**
 
-Company Name : Adobe
+Company Name : **Adobe**
 
 
 **Day 16-20 :**
 
-Company Name : Flipkart
+Company Name : **Flipkart**
 
 
 **Day 21-25 :**
 
-Company Name : Google
+Company Name : **Google**
 
 
 **Day 26-30 :**
 
-Company Name : Amazon
+Company Name : **Amazon**
