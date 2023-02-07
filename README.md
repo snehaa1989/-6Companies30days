@@ -9,26 +9,27 @@ Problem Sheet - https://docs.google.com/document/d/1jkVKWPcOAE2Xjt7GFLV-M8N50Hyg
 
 Company Name : **Microsoft**
 
+
 **Day 6-10 :**
 
-Company Name : 
+Company Name : Goldman Sachs
 
 
 **Day 11-15 :**
 
-Company Name : 
+Company Name : Adobe
 
 
 **Day 16-20 :**
 
-Company Name : 
+Company Name : Flipkart
 
 
 **Day 21-25 :**
 
-Company Name :
+Company Name : Google
 
 
 **Day 26-30 :**
 
-Company Name :
+Company Name : Amazon
